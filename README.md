@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-- 🎓 **Education**: Bachelor's Degree in [Economics].
+- 🎓 **Education**: Bachelor's Degree in Economics.
 - 💻 **Skills**: Python, Tableau, Data Visualization.
 - 💡 **Interests**: Data Analysis, Machine Learning, Business Intelligence.
 
