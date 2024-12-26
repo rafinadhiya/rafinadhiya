@@ -13,11 +13,14 @@
 ---
 
 ## Projects
-- **Project 1**  
+- **Project 1** 📊  
+  *Description of project 1.*
 
-- **Project 2**  
+- **Project 2** 📈  
+  *Description of project 2.*
 
-- **Project 3**  
+- **Project 3** 🗂️  
+  *Description of project 3.*
 
 ---
 
@@ -52,5 +55,5 @@
 ---
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rafinadhiya/)
-- [Email](rafina.pradani@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rafinadhiya/) 💼
+- [Email](mailto:rafina.pradani@gmail.com) 📧
