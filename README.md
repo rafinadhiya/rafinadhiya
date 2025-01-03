@@ -15,7 +15,7 @@
 ## Projects
 - **Used Car Auction Analysis** 🚗  
   *A data science project analyzing used car auction data to identify key factors that influence profitability. The project includes data cleaning, exploratory analysis, and interactive visualizations using Tableau.*  
-  [View on GitHub](https://github.com/rafinadhiya/used-car-auction-analysis)
+  [Used Car Auction Analysis](https://github.com/rafinadhiya/used-car-auction-analysis)
   
 ---
 
