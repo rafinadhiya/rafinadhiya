@@ -13,15 +13,10 @@
 ---
 
 ## Projects
-- **Project 1** 📊  
-  *Description of project 1.*
-
-- **Project 2** 📈  
-  *Description of project 2.*
-
-- **Project 3** 🗂️  
-  *Description of project 3.*
-
+- **Used Car Auction Analysis** 🚗  
+  *A data science project analyzing used car auction data to identify key factors that influence profitability. The project includes data cleaning, exploratory analysis, and interactive visualizations using Tableau.*  
+  [View on GitHub](https://github.com/rafinadhiya/used-car-auction-analysis)
+  
 ---
 
 ## 🛠️ Tech Stack
