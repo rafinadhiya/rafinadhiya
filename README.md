@@ -58,3 +58,9 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rafinadhiya/) 💼
 - [Email](mailto:rafina.pradani@gmail.com) 📧
+
+---
+
+💬 *Let’s connect! Feel free to explore my projects or reach out for collaboration opportunities!* 🚀
+
+---
