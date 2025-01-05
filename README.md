@@ -14,11 +14,13 @@
 
 ## Projects
 - **Used Car Auction Analysis** 🚗  
-  *A data science project analyzing used car auction data to identify key factors that influence profitability. The project includes data cleaning, exploratory analysis, and interactive visualizations using Tableau.*  
+  *A data science project analyzing used car auction data to identify key factors that influence profitability. The project includes data cleaning, exploratory analysis, and interactive visualizations using Tableau.*
+  
   Check it out [Used Car Auction Analysis](https://github.com/rafinadhiya/used-car-auction-analysis)!
 
 - **Video Game Sales Analysis Pipeline 🎮**  
   *A data pipeline project analyzing global video game sales trends. Includes data cleaning, ETL workflows with Apache Airflow, and interactive visualizations using Kibana.*
+  
   Check it out [Vide Game Sales Analysis Pipeline](https://github.com/rafinadhiya/video-game-sales-analysis-pipeline)!  
   
 ---
