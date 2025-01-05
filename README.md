@@ -19,7 +19,6 @@
 
 - **Video Game Sales Analysis Pipeline 🎮**  
   *A data pipeline project analyzing global video game sales trends. Includes data cleaning, ETL workflows with Apache Airflow, and interactive visualizations using Kibana.*
-
   Check it out [Vide Game Sales Analysis Pipeline](https://github.com/rafinadhiya/video-game-sales-analysis-pipeline)!  
   
 ---
