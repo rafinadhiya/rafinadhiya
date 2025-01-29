@@ -27,10 +27,6 @@
     *A deep learning project that classifies vehicle types based on images using a Convolutional Neural Network (CNN). Built with MobileNetV2 for better accuracy, achieving **87.50% accuracy**. The model is deployed for real-time predictions via **Streamlit** and          **Hugging Face Space**.*
 
   Check it out [Vehicle Type Classification with MobileNetV2](https://github.com/rafinadhiya/vehicle-type-classification)❕
-
----
-
-Semoga membantu! 😊
   
 ---
 
